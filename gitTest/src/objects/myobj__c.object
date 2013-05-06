@@ -40,7 +40,7 @@
     <enableReports>false</enableReports>
     <label>myobj</label>
     <nameField>
-        <label>myobj Name</label>
+        <label>myobj NameAAA</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>myobjs</pluralLabel>
