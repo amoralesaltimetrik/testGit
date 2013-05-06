@@ -18,4 +18,8 @@ public class SampleDeployClass {
     public static void helloMethod() {
         System.debug('Hello World');
     }
+
+    public static void byeFoo(){
+        system.debug('byeFoo');
+    }
 }
